@@ -1,0 +1,5 @@
+This is a program that implements a unidirectional communication system written in Java.
+
+The sender enters the recipient's IP address followed by the port and the message to be sent.
+
+Meanwhile, the receiver enters the local port where the message will be received.
