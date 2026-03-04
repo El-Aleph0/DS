@@ -1,0 +1,5 @@
+It is a two-way communication program written in Java.
+
+The Sender-Receiver specifies the receiver's IP address and port, followed by the sender's port and the message.
+
+While the ReptorEmisor places the sender's IP address and port followed by the receiver's port and the message to be replied to.
